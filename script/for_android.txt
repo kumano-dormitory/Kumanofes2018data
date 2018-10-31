@@ -1,0 +1,259 @@
+,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+
+-------------------------------------------
+
+-----------------------------------------------,
+listOf<String>("プリーグ","プーさんのホームランダービーをみんなでやる。","12/09 9:00","12/09 15:00","食堂","puri"),
+listOf<String>("ポーカー大会","ポーカー大会をする","12/09 10:00","12/09 19:00","","poker"),
+listOf<String>("TRPG小会","いつものようにTRPGをやるぞ","12/09 10:00","12/09 15:00","食堂","trpg"),
+listOf<String>("離人食","来たる日のペットフード生活に備えてペットフードをおいしく料理する。","12/09 11:00","12/09 14:00","","rijin"),
+listOf<String>("ケーキコンパ","ケーキを作り、食べる。","12/09 11:00","12/09 14:00","食堂","cake"),
+listOf<String>("ねるねるねるねるねるねるね","ねるねるねるね100人分で遊ぶ","12/09 11:00","12/09 14:00","食堂","neru"),
+listOf<String>("おかしの家をつくる","おかしの家を作って食べる","12/09 11:00","12/09 14:00","食堂","okashi"),
+listOf<String>("まど☆マギ学概論","まどマギが見たいからまどマギをまどマギを見る＆解説","12/09 12:00","12/09 18:00","","madogai"),
+listOf<String>("刃牙コンパ","刃牙ごっこをする(ex.炭酸抜きコーラがぶ飲み)その後ローションずもうをしましょう。","12/09 12:00","12/09 14:00","食堂","baki"),
+listOf<String>("ダサい食事会","ダサい服着て来た奴が会費タダ","12/09 15:00","12/09 18:00","同志社大学寒梅館","dasai"),
+listOf<String>("ききざけ","酒をのみわける","12/09 18:00","12/09 26:00","食堂","kikizake"),
+listOf<String>("熊野神社建立！鞍馬(くまの)の火祭","今年は鞍馬の火祭を熊野寮で開催する","12/09 18:00","12/09 26:00","民生池or駐輪場","kurama"),
+listOf<String>("音楽祭","","12/09 19:00","12/09 23:00","音楽室","ongakusai")
+----------------------------------------------
+
+-------------------------------------------
+
+-----------------------------------------------,
+listOf<String>("実寸大(豆)戦車を作る","CV33を実寸大で作る","","","食堂横","sensya"),
+listOf<String>("焼香","常設する","","","食堂出入口","syoko"),
+listOf<String>("高T","みんなで高Tになる","","","","takat"),
+listOf<String>("職員総選挙","職員の人気投票を行う。","","","常設","sousenkyo"),
+listOf<String>("まいにちブリーチ","","","","食堂","mainichi"),
+listOf<String>("三里塚野菜市","三里塚直送野菜を売る。","","","ロビー","sanri"),
+listOf<String>("民生池の水全部ヌく♡","民生池の水を抜いて掃除して、砂利をしいてキレイな池へと再生させます。","","","中庭","ike"),
+listOf<String>("コンビニを寮内につくる","","","","軟鉄庵","konbini"),
+listOf<String>("東門酒場","寮の東門スペースで近所の人相手に酒場する","","","東門","sakaba"),
+listOf<String>("パワースポット熊野寮","京都のパワースポットとして熊野寮をうりだす。","","","正門付近","power"),
+listOf<String>("熊谷君の恋人を作ろう","ハイスペック男子熊谷さんに彼女がいない社会はどう考えてもおかしいので、総出で未来に変革を起こす。","","","","kumagai"),
+listOf<String>("不思議の国のアリス決定戦","","","","落とし穴","arisu"),
+listOf<String>("リヤカータクシー","リヤカーにてタクシー業務を行う","","","外","riyaka"),
+listOf<String>("ホームレスホイホイ","","","","落とし穴","homeless"),
+listOf<String>("熊谷君に恋人ができるのをを妨害しよう","ガイジ系男子熊くんが恋人とイチャつくのは見たくないので、総出で邪魔をする。","","","","bougai"),
+listOf<String>("24時間YouTuberレビュー","","","","","youtuber"),
+listOf<String>("ウーパールーパーを育てよう！","","","","事務室","upa"),
+listOf<String>("BARKUMA","軟鉄庵でみんなにお酒をつくりのませる","","","軟鉄庵","barkuma"),
+listOf<String>("松屋vsすき屋vs吉野家vsなか卯","","","","常設","matsuya"),
+listOf<String>("熊野杯","熊野王を決める","","","寮内各地","kumanohai"),
+listOf<String>("あた溜まり屋","日替わり店長による飲食販売。毎晩＋土日の昼。","","","ロビー","atata"),
+listOf<String>("寮祭無限酒","3年目くらい。ロビーに日本酒とカンパ箱を放置する。カンパが集まったら酒を買い足す。なくなったら終了。","","","ロビー","mugen"),
+listOf<String>("クマナリエ4.0","2012年くらいに始まったイルミネーション企画。2016年より迷走を開始。新たな「クマナリエ」を模索する。","","","屋外","kumanari"),
+listOf<String>("熊野湯 薪割り","寮内の倒木をカットして、乾燥させて、わる。薪の保管場所も作る。(寮には一本手斧が必要だと考える) 作った薪で、ドラム缶風呂ついでに焼きイモ・足湯もやる","","","中庭","kumanoyu"),
+listOf<String>("熊野寮生だけど質問ある？","","","","インターネット上","shitumon"),
+listOf<String>("ドレッシングまつり","寮食にドレッシング追加!!","","","食堂","dore")
+-------------------------------------------
+
+-----------------------------------------------,
+listOf<String>("24時間をはかれ!!","B棟奥深くにある地下室に閉じ込められ、日の光も差さない牢獄から24時間ピッタリで抜け出すことはできるだろうか?さみしくないように投獄人数は4人以上。電子機器、時計等は没収。","","","ボイラー室","jikan"),
+listOf<String>("さるかに合戦","もしも、猿とかにの仲が良かったら…。そんなif企画。みんなで仲よく干し柿を作って京大当局のタテカンフレームに干そう！","","","","saru"),
+listOf<String>("山鉾巡行","そのままです","","","大学","yamahoko"),
+listOf<String>("２階から目薬","２階から目薬をする","","","玄関","megusuri"),
+listOf<String>("テキーラで遊ばない","テキーラで遊ばない。奥大山を飲む。","","","","asobanai"),
+listOf<String>("企画","企画をする","","","","kikaku"),
+listOf<String>("ハリーポッターと魔法の白い粉","色んな白い粉を直接鼻から摂取する","","","喫煙所","kona"),
+listOf<String>("アドバルーン","アドバルーンを手作り、とばします。","","","B屋上","ad"),
+listOf<String>("のり貼り","","","","ロビー、寮内各所","noribari"),
+listOf<String>("【検閲により削除されました】","","","","寮全体","kenetsu"),
+listOf<String>("そうじ","そうじする","","","寮全体","souji"),
+listOf<String>("あったまろう屋","ボイラー室でタダ飯をふるまう","","","ボイラー室","atta"),
+listOf<String>("SC選挙","SC選挙を実施する。","","","","sc"),
+listOf<String>("配信","何を配信するかは未定","","","","haishin"),
+listOf<String>("バカと酔っ払いにつける薬はない","バカみたいな酒飲みに薬(何か)を飲ませて正気にさせる","","","","baka"),
+listOf<String>("新・資料システムを本気で考える会","プログラムを書き、仕様について議論する","","","食堂","shiryo"),
+listOf<String>("テキーラで遊ぼ","中米のお酒「テキーラ」を楽しく味わう会","","","","tekira"),
+listOf<String>("「レンタルなんもしない人」を呼ぶ","呼んでどうするかは未定。というか誰か考えてほしい。","","","","rental"),
+listOf<String>("ライデン瓶","寮のいたるところにライデン瓶を置く。静電気楽しい。","","","","raiden"),
+listOf<String>("薄毛体験","すきばさみでつむじ付近を切る。ミリオンヘアーでかくす。","","","ロビー","usuge"),
+listOf<String>("ミリオンヘアー","ミリオンヘアーでかくす。","","","ロビー","million")
+for Resource Id match function
+return when(path) {
+    "tokei" -> R.drawable.tokei
+    "kwzeseitan" -> R.drawable.kwzeseitan
+    "danatsu" -> R.drawable.danatsu
+    "fusen" -> R.drawable.fusen
+    "roket" -> R.drawable.roket
+    "g400" -> R.drawable.g400
+    "ryosyoku" -> R.drawable.ryosyoku
+    "arumi" -> R.drawable.arumi
+    "club" -> R.drawable.club
+    "sonoko" -> R.drawable.sonoko
+    "yukutsuki" -> R.drawable.yukutsuki
+    "shindori" -> R.drawable.shindori
+    "doraku" -> R.drawable.doraku
+    "tea" -> R.drawable.tea
+    "dogama" -> R.drawable.dogama
+    "tyopu" -> R.drawable.tyopu
+    "katan" -> R.drawable.katan
+    "domi" -> R.drawable.domi
+    "nourin" -> R.drawable.nourin
+    "chall" -> R.drawable.chall
+    "kyusyoku" -> R.drawable.kyusyoku
+    "shijo" -> R.drawable.shijo
+    "karaoke" -> R.drawable.karaoke
+    "marvel" -> R.drawable.marvel
+    "kyodai" -> R.drawable.kyodai
+    "kome" -> R.drawable.kome
+    "takara" -> R.drawable.takara
+    "byoru" -> R.drawable.byoru
+    "publicview" -> R.drawable.publicview
+    "kwze" -> R.drawable.kwze
+    "gotiusa" -> R.drawable.gotiusa
+    "ana" -> R.drawable.ana
+    "aizome" -> R.drawable.aizome
+    "hamigaki" -> R.drawable.hamigaki
+    "neko" -> R.drawable.neko
+    "mado" -> R.drawable.mado
+    "ilust" -> R.drawable.ilust
+    "teppi" -> R.drawable.teppi
+    "tabera" -> R.drawable.tabera
+    "demo" -> R.drawable.demo
+    "senkan" -> R.drawable.senkan
+    "yowamushi" -> R.drawable.yowamushi
+    "sutikka" -> R.drawable.sutikka
+    "dekin" -> R.drawable.dekin
+    "ikasama" -> R.drawable.ikasama
+    "masyou" -> R.drawable.masyou
+    "yoru" -> R.drawable.yoru
+    "jugyo" -> R.drawable.jugyo
+    "supojitsu" -> R.drawable.supojitsu
+    "ping" -> R.drawable.ping
+    "seimon" -> R.drawable.seimon
+    "kaisatsu" -> R.drawable.kaisatsu
+    "ajite" -> R.drawable.ajite
+    "publicview" -> R.drawable.publicview
+    "noodle" -> R.drawable.noodle
+    "hyakumono" -> R.drawable.hyakumono
+    "zero" -> R.drawable.zero
+    "ping" -> R.drawable.ping
+    "ekiden" -> R.drawable.ekiden
+    "yakihata" -> R.drawable.yakihata
+    "kaiken" -> R.drawable.kaiken
+    "bar" -> R.drawable.bar
+    "zero" -> R.drawable.zero
+    "gurushan" -> R.drawable.gurushan
+    "gotiusa" -> R.drawable.gotiusa
+    "pub" -> R.drawable.pub
+    "ab" -> R.drawable.ab
+    "kikanshi" -> R.drawable.kikanshi
+    "zenryo" -> R.drawable.zenryo
+    "tamanegi" -> R.drawable.tamanegi
+    "takenoko" -> R.drawable.takenoko
+    "konkuri" -> R.drawable.konkuri
+    "big" -> R.drawable.big
+    "youmei" -> R.drawable.youmei
+    "koemo" -> R.drawable.koemo
+    "amazon" -> R.drawable.amazon
+    "ghoost" -> R.drawable.ghoost
+    "oekaki" -> R.drawable.oekaki
+    "r100" -> R.drawable.r100
+    "madogai" -> R.drawable.madogai
+    "poker" -> R.drawable.poker
+    "miri" -> R.drawable.miri
+    "smabura" -> R.drawable.smabura
+    "ikada" -> R.drawable.ikada
+    "kamogawa" -> R.drawable.kamogawa
+    "guriko" -> R.drawable.guriko
+    "nazo" -> R.drawable.nazo
+    "bar" -> R.drawable.bar
+    "marvel" -> R.drawable.marvel
+    "takara" -> R.drawable.takara
+    "puri" -> R.drawable.puri
+    "poker" -> R.drawable.poker
+    "trpg" -> R.drawable.trpg
+    "rijin" -> R.drawable.rijin
+    "cake" -> R.drawable.cake
+    "neru" -> R.drawable.neru
+    "okashi" -> R.drawable.okashi
+    "madogai" -> R.drawable.madogai
+    "baki" -> R.drawable.baki
+    "dasai" -> R.drawable.dasai
+    "kikizake" -> R.drawable.kikizake
+    "kurama" -> R.drawable.kurama
+    "ongakusai" -> R.drawable.ongakusai
+    "sensya" -> R.drawable.sensya
+    "syoko" -> R.drawable.syoko
+    "takat" -> R.drawable.takat
+    "sousenkyo" -> R.drawable.sousenkyo
+    "mainichi" -> R.drawable.mainichi
+    "sanri" -> R.drawable.sanri
+    "ike" -> R.drawable.ike
+    "konbini" -> R.drawable.konbini
+    "sakaba" -> R.drawable.sakaba
+    "power" -> R.drawable.power
+    "kumagai" -> R.drawable.kumagai
+    "arisu" -> R.drawable.arisu
+    "riyaka" -> R.drawable.riyaka
+    "homeless" -> R.drawable.homeless
+    "bougai" -> R.drawable.bougai
+    "youtuber" -> R.drawable.youtuber
+    "upa" -> R.drawable.upa
+    "barkuma" -> R.drawable.barkuma
+    "matsuya" -> R.drawable.matsuya
+    "kumanohai" -> R.drawable.kumanohai
+    "atata" -> R.drawable.atata
+    "mugen" -> R.drawable.mugen
+    "kumanari" -> R.drawable.kumanari
+    "kumanoyu" -> R.drawable.kumanoyu
+    "shitumon" -> R.drawable.shitumon
+    "dore" -> R.drawable.dore
+    "jikan" -> R.drawable.jikan
+    "saru" -> R.drawable.saru
+    "yamahoko" -> R.drawable.yamahoko
+    "megusuri" -> R.drawable.megusuri
+    "asobanai" -> R.drawable.asobanai
+    "kikaku" -> R.drawable.kikaku
+    "kona" -> R.drawable.kona
+    "ad" -> R.drawable.ad
+    "noribari" -> R.drawable.noribari
+    "kenetsu" -> R.drawable.kenetsu
+    "souji" -> R.drawable.souji
+    "atta" -> R.drawable.atta
+    "sc" -> R.drawable.sc
+    "haishin" -> R.drawable.haishin
+    "baka" -> R.drawable.baka
+    "shiryo" -> R.drawable.shiryo
+    "tekira" -> R.drawable.tekira
+    "rental" -> R.drawable.rental
+    "raiden" -> R.drawable.raiden
+    "usuge" -> R.drawable.usuge
+    "million" -> R.drawable.million
+    else -> R.drawable.ic_launcher_background
+}
