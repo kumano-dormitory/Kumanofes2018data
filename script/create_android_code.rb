@@ -14,7 +14,7 @@ tmp_str_write_f = false
 tmp_permanent = ""
 tmp_gerira = ""
 
-path_list = []
+path_hash = {}
 url_hash = {}
 
 i = 0
@@ -51,7 +51,7 @@ File.open("./for_android.txt", "w+") do |f|
 
     # パスの集合に追加する
     if (!data['path'].nil? && data['path'].strip != "") then
-      path_list.push(data['path'])
+      path_hash[data['path']] = "    \"#{data['path']}\" -> R.drawable.#{data['path']}\n"
     end
   end
   f.write("\n-------------------------------------------\n\n-----------------------------------------------")
@@ -62,8 +62,8 @@ File.open("./for_android.txt", "w+") do |f|
 
   f.write("\nfor Resource Id match function\n")
   f.write("return when(path) {\n")
-  path_list.each do |path|
-    f.write("    \"#{path}\" -> R.drawable.#{path}\n")
+  path_hash.each do |path, code|
+    f.write(code)
   end
   f.write("    else -> R.drawable.ic_launcher_background\n}\n")
 
