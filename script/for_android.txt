@@ -3,7 +3,7 @@ listOf<String>("時計台コンパ","","11/30 11:00","11/30 14:00","時計台","
 listOf<String>("川添副学長生誕祭","時計台コンパのときくらいが川添の誕生日らしいので盛大にお祝いしましょう！川添先生の好き？なインターナショナルを歌います。","11/30 11:00","11/30 14:00","時計台","kwzeseitan"),
 listOf<String>("弾圧警備員と遊ぼう！","時計台コンパに京大の出禁者弾圧専門元弾圧警備員の人が来たがってるので、来てくれた場合、その人と交流しましょう！来なかった場合は延期で、寮祭中に寮に呼ぼうと思います。","11/30 11:00","11/30 14:00","時計台","danatsu"),
 listOf<String>("風船飛ばし","寮祭初日に風船手紙を打ち上げ、返事を待つ","11/30 11:00","11/30 14:00","時計台前","fusen"),
-listOf<String>("1000発ロケット花火","時計台コンパの始まる時に、1000発のロケット花火を一気にうちあげる。","11/30 11:30","11/30 12:30","","roket"),
+listOf<String>("1000発ロケット花火","時計台コンパの始まる時に、1000発のロケット花火を一気にうちあげる。","11/30 11:30","11/30 12:30","時計台","roket"),
 listOf<String>("400gをはかれ!","米400gをはかる＠寮食","11/30 17:00","11/30 20:30","食堂","g400"),
 listOf<String>("寮食クイズ","寮食の材料のクイズ","11/30 17:00","11/30 20:30","食堂","ryosyoku"),
 listOf<String>("アルミボールを作ろう","100ローの清水さんを呼んで、アルミホイルでボールを作るワークショップ。","11/30 18:00","11/30 23:00","ロビー","arumi"),
@@ -16,7 +16,8 @@ listOf<String>("ゆく月くる月","すぎさった一月をおしみ、きた�
 listOf<String>("シンドリーちゃんコンパ","お皿にトラウマがあるのでお皿は使いません!!　スープパスタ食べましょう","12/01 12:00","12/01 16:00","食堂","shindori"),
 listOf<String>("道楽亭漫西独演会","元京大落研の3回生・油田さんを呼んで落語をやってもらいます！","12/01 13:00","12/01 14:00","鋼鉄庵","doraku"),
 listOf<String>("優雅なティーパーティー","手作りのお菓子といっしょに高めのteaをのむ。","12/01 14:00","12/01 15:00","食堂","tea"),
-listOf<String>("同釜会","卒寮生が集まるコンパ","12/01 18:00","12/02 8:00","","dogama"),
+listOf<String>("みかんまつり","みかんで遊ぶ","12/01 16:00","12/01 17:00","中庭","mikan"),
+listOf<String>("同釜会","卒寮生が集まるコンパ","12/01 18:00","12/02 8:00","食堂","dogama"),
 listOf<String>("チョップドサラダを作ろう(チョップのみで)","チョップのみでサラダを作る","12/01 19:00","12/01 22:00","ボイラー室","tyopu"),
 listOf<String>("耐久カタン","","12/01 22:00","12/02 10:00","食堂","katan"),
 listOf<String>("耐久ドミニオン大会","","12/01 22:00","12/02 10:00","食堂","domi"),
@@ -24,7 +25,7 @@ listOf<String>("のうりん","農業アニメを見ながら新米を食べる�
 -------------------------------------------
 
 -----------------------------------------------,
-listOf<String>("1.1.1.チャレンジ","1Gの通信制限と1万円で1回で寮に帰ってこれるか(三宅)　カメラマンつけます(絶対に助けない) ","12/02 0:00","12/03 0:00","","chall"),
+listOf<String>("1.1.1.チャレンジ","1Gの通信制限と1万円で1回で寮に帰ってこれるか(三宅)　カメラマンつけます(絶対に助けない) ","12/02 0:00","12/03 0:00","委員長がいる場所＆食堂","chall"),
 listOf<String>("給食喫茶","給食にあったなつかしのメニューを出す。フライドビーンズとかミルメークとか。","12/02 11:00","12/02 13:00","食堂","kyusyoku"),
 listOf<String>("四条大運動会","四条で大々的に運動会をやる","12/02 13:00","12/02 17:00","京都市街","shijo"),
 listOf<String>("THEカラオケ☆バトルin熊野","","12/02 13:00","12/02 16:30","食堂orポーカースペース","karaoke"),
@@ -33,7 +34,7 @@ listOf<String>("京大オリジナルグッズコンパ","時計台で売って�
 listOf<String>("米コンパ","白米をいろんなご飯のお供と食べる。目標３０合。","12/02 19:00","12/02 22:00","食堂","kome"),
 listOf<String>("宝塚☆仮装鑑賞会","宝塚の美しすぎる名作を、仮装して(もしなくてもいいから)鑑賞し、心を奪われる会。","12/02 20:00","12/02 24:00","卓球スペースorC12","takara"),
 listOf<String>("びょるんそんを作る","あの伝説のロビンソンの替え歌、「びょるんそん」を作る","12/02 20:00","12/02 26:00","食堂","byoru"),
-listOf<String>("パブリックビューイング","食堂でプロジェクターの大画面でゲームをする。そして見る。","12/02 20:00","12/02 24:00","","publicview"),
+listOf<String>("パブリックビューイング","食堂でプロジェクターの大画面でゲームをする。そして見る。","12/02 20:00","12/02 24:00","食堂（モニター）","publicview"),
 listOf<String>("KWZEを呪おう！","世界中の呪いを川添さんに試す。科学的根拠はないので訴えられないはず。","12/02 23:00","12/02 26:00","室内(火を使う場合外)","kwze"),
 listOf<String>("ごちうさときんモザを観る","時間が許す限り、『ご注文はうさぎですか？』と『きんいろモザイク』を上映し続ける。上限24時間","12/02 25:00","12/03 12:30","上映スペース","gotiusa")
 -------------------------------------------
@@ -67,10 +68,10 @@ listOf<String>("「輪るピングドラム」上映会","ポスト・オウム�
 listOf<String>("正門封鎖","「正門」を復活させ、封鎖できるようにする。","12/05 10:00","12/05 16:00","正門付近","seimon"),
 listOf<String>("改札","フェンスの表札を新調する。増やしてもよい。","12/05 10:00","12/05 16:00","食堂","kaisatsu"),
 listOf<String>("アジテーション","①くじでテーマを決める ex.)すし ②そのテーマについて大衆にアジる","12/05 12:00","12/05 13:00","寮食堂or時計台","ajite"),
-listOf<String>("パブリックビューイング","食堂でプロジェクターの大画面でゲームをする。そして見る。","12/05 18:00","12/05 22:00","","publicview"),
+listOf<String>("パブリックビューイング","食堂でプロジェクターの大画面でゲームをする。そして見る。","12/05 18:00","12/05 22:00","食堂（モニター）","publicview"),
 listOf<String>("Fire Noodle challenge season2","辛い物に挑戦する。","12/05 20:00","12/05 22:00","ロビーor食堂","noodle"),
 listOf<String>("百物語","冬の夜に、怪談話でもっと寒くなろう！参加者が怪談を持ち寄り、話し終えるごとにろうそくを1つ吹き消す。","12/05 20:00","12/05 25:00","地下or軟鉄庵","hyakumono"),
-listOf<String>("『ゼロの使い魔』上映会","4期全部は長いので、たぶん1期のみ","12/05 23:00","12/05 26:00","ポーカースペース","zero")
+listOf<String>("『ゼロの使い魔』上映会","4期全部は長いので、たぶん1期のみ","12/05 23:00","12/05 26:00","上映スペース","zero")
 -------------------------------------------
 
 -----------------------------------------------,
@@ -79,9 +80,9 @@ listOf<String>("熊野駅伝","ブロックごとにチームを組んで駅伝�
 listOf<String>("焼き畑","焼き畑するために寮内の雑草とかをやく、ガソリンが必要。かとかムカデもついでにやく。","12/06 14:00","12/06 15:00","中庭","yakihata"),
 listOf<String>("会見","会見を開く。","12/06 19:00","12/06 21:00","食堂北部","kaiken"),
 listOf<String>("魔剤bar","エナジードリンクをふんだんに用いたカクテル等を提供しましょう","12/06 21:00","12/06 23:00","バークマor食堂or外","bar"),
-listOf<String>("『ゼロの使い魔』上映会","4期全部は長いので、たぶん1期のみ","12/06 21:00","12/06 24:00","","zero"),
+listOf<String>("『ゼロの使い魔』上映会","4期全部は長いので、たぶん1期のみ","12/06 21:00","12/06 24:00","上映スペース","zero"),
 listOf<String>("第1回グルシャン王決定戦","グルメシャンプー界の真の王を決める聖なる闘い","12/06 22:00","12/06 23:00","食堂","gurushan"),
-listOf<String>("ごちうさときんモザを観る","時間が許す限り、『ご注文はうさぎですか？』と『きんいろモザイク』を上映し続ける。上限24時間","12/06 24:00","12/07 12:30","","gotiusa"),
+listOf<String>("ごちうさときんモザを観る","時間が許す限り、『ご注文はうさぎですか？』と『きんいろモザイク』を上映し続ける。上限24時間","12/06 24:00","12/07 12:30","上映スペース","gotiusa"),
 listOf<String>("Music Pub","音楽室で音楽をききながらビールを飲む。","12/06 24:00","12/06 26:00","音楽室","pub")
 -------------------------------------------
 
@@ -110,20 +111,20 @@ listOf<String>("かも川イカダレース","三条から四条の川を自作�
 listOf<String>("賀茂河の水を止める","白河帝ですら自分の思いのままにならなかった天下三不如意の一つ「賀茂河の水」を止めよう！・・・という名目で極寒の河遊びをするぞ！すぐあきると思うから、その後は河原で芋煮会でもしよう(カンパ次第)","12/08 15:00","12/08 18:00","鴨川","kamogawa"),
 listOf<String>("京都駅大階段グリコ","","12/08 18:00","12/08 20:00","京都駅","guriko"),
 listOf<String>("謎料理選手権","名前を聞いてもよく分からない料理をお題として出す。料理名のうち1つだけ単語の意味を教えて、各自が想像で料理を作る。","12/08 19:00","12/08 20:30","食堂","nazo"),
-listOf<String>("魔剤bar","エナジードリンクをふんだんに用いたカクテル等を提供しましょう","12/08 20:00","12/08 22:00","","bar"),
-listOf<String>("Marvel上映会","Avengers1,2,3+civil war を上映する。","12/08 20:00","12/08 22:30","","marvel"),
-listOf<String>("宝塚☆仮装鑑賞会","宝塚の美しすぎる名作を、仮装して(もしなくてもいいから)鑑賞し、心を奪われる会。","12/08 23:00","12/08 26:00","","takara")
+listOf<String>("魔剤bar","エナジードリンクをふんだんに用いたカクテル等を提供しましょう","12/08 20:00","12/08 22:00","食堂","bar"),
+listOf<String>("Marvel上映会","Avengers1,2,3+civil war を上映する。","12/08 20:00","12/08 22:30","上映スペース","marvel"),
+listOf<String>("宝塚☆仮装鑑賞会","宝塚の美しすぎる名作を、仮装して(もしなくてもいいから)鑑賞し、心を奪われる会。","12/08 23:00","12/08 26:00","C12談話室","takara")
 -------------------------------------------
 
 -----------------------------------------------,
 listOf<String>("プリーグ","プーさんのホームランダービーをみんなでやる。","12/09 9:00","12/09 15:00","食堂","puri"),
-listOf<String>("ポーカー大会","ポーカー大会をする","12/09 10:00","12/09 19:00","","poker"),
+listOf<String>("ポーカー大会","ポーカー大会をする","12/09 10:00","12/09 19:00","食堂","poker"),
 listOf<String>("TRPG小会","いつものようにTRPGをやるぞ","12/09 10:00","12/09 15:00","食堂","trpg"),
-listOf<String>("離人食","来たる日のペットフード生活に備えてペットフードをおいしく料理する。","12/09 11:00","12/09 14:00","","rijin"),
+listOf<String>("離人食","来たる日のペットフード生活に備えてペットフードをおいしく料理する。","12/09 11:00","12/09 14:00","食堂","rijin"),
 listOf<String>("ケーキコンパ","ケーキを作り、食べる。","12/09 11:00","12/09 14:00","食堂","cake"),
 listOf<String>("ねるねるねるねるねるねるね","ねるねるねるね100人分で遊ぶ","12/09 11:00","12/09 14:00","食堂","neru"),
 listOf<String>("おかしの家をつくる","おかしの家を作って食べる","12/09 11:00","12/09 14:00","食堂","okashi"),
-listOf<String>("まど☆マギ学概論","まどマギが見たいからまどマギをまどマギを見る＆解説","12/09 12:00","12/09 18:00","","madogai"),
+listOf<String>("まど☆マギ学概論","まどマギが見たいからまどマギをまどマギを見る＆解説","12/09 12:00","12/09 18:00","食堂","madogai"),
 listOf<String>("刃牙コンパ","刃牙ごっこをする(ex.炭酸抜きコーラがぶ飲み)その後ローションずもうをしましょう。","12/09 12:00","12/09 14:00","食堂","baki"),
 listOf<String>("ダサい食事会","ダサい服着て来た奴が会費タダ","12/09 15:00","12/09 18:00","同志社大学寒梅館","dasai"),
 listOf<String>("ききざけ","酒をのみわける","12/09 18:00","12/09 26:00","食堂","kikizake"),
@@ -136,7 +137,7 @@ listOf<String>("音楽祭","","12/09 19:00","12/09 23:00","音楽室","ongakusai
 -----------------------------------------------,
 listOf<String>("実寸大(豆)戦車を作る","CV33を実寸大で作る","","","食堂横","sensya"),
 listOf<String>("焼香","常設する","","","食堂出入口","syoko"),
-listOf<String>("高T","みんなで高Tになる","","","","takat"),
+listOf<String>("高T","みんなで高Tになる","","","各企画場所","takat"),
 listOf<String>("職員総選挙","職員の人気投票を行う。","","","常設","sousenkyo"),
 listOf<String>("まいにちブリーチ","","","","食堂","mainichi"),
 listOf<String>("三里塚野菜市","三里塚直送野菜を売る。","","","ロビー","sanri"),
@@ -144,11 +145,11 @@ listOf<String>("民生池の水全部ヌく♡","民生池の水を抜いて掃�
 listOf<String>("コンビニを寮内につくる","","","","軟鉄庵","konbini"),
 listOf<String>("東門酒場","寮の東門スペースで近所の人相手に酒場する","","","東門","sakaba"),
 listOf<String>("パワースポット熊野寮","京都のパワースポットとして熊野寮をうりだす。","","","正門付近","power"),
-listOf<String>("熊谷君の恋人を作ろう","ハイスペック男子熊谷さんに彼女がいない社会はどう考えてもおかしいので、総出で未来に変革を起こす。","","","","kumagai"),
+listOf<String>("熊谷君の恋人を作ろう","ハイスペック男子熊谷さんに彼女がいない社会はどう考えてもおかしいので、総出で未来に変革を起こす。","","","各所","kumagai"),
 listOf<String>("不思議の国のアリス決定戦","","","","落とし穴","arisu"),
 listOf<String>("リヤカータクシー","リヤカーにてタクシー業務を行う","","","外","riyaka"),
-listOf<String>("熊谷君に恋人ができるのをを妨害しよう","ガイジ系男子熊くんが恋人とイチャつくのは見たくないので、総出で邪魔をする。","","","","bougai"),
-listOf<String>("24時間YouTuberレビュー","","","","","youtuber"),
+listOf<String>("熊谷君に恋人ができるのをを妨害しよう","ガイジ系男子熊くんが恋人とイチャつくのは見たくないので、総出で邪魔をする。","","","各所","bougai"),
+listOf<String>("24時間YouTuberレビュー","","","","企画者のいる所＆食堂","youtuber"),
 listOf<String>("ウーパールーパーを育てよう！","","","","事務室","upa"),
 listOf<String>("BARKUMA","軟鉄庵でみんなにお酒をつくりのませる","","","軟鉄庵","barkuma"),
 listOf<String>("松屋vsすき屋vs吉野家vsなか卯","","","","常設","matsuya"),
@@ -163,23 +164,23 @@ listOf<String>("ドレッシングまつり","寮食にドレッシング追加!
 
 -----------------------------------------------,
 listOf<String>("24時間をはかれ!!","B棟奥深くにある地下室に閉じ込められ、日の光も差さない牢獄から24時間ピッタリで抜け出すことはできるだろうか?さみしくないように投獄人数は4人以上。電子機器、時計等は没収。","","","ボイラー室","jikan"),
-listOf<String>("さるかに合戦","もしも、猿とかにの仲が良かったら…。そんなif企画。みんなで仲よく干し柿を作って京大当局のタテカンフレームに干そう！","","","","saru"),
+listOf<String>("さるかに合戦","もしも、猿とかにの仲が良かったら…。そんなif企画。みんなで仲よく干し柿を作って京大当局のタテカンフレームに干そう！","","","寮内各地","saru"),
 listOf<String>("山鉾巡行","そのままです","","","大学","yamahoko"),
 listOf<String>("２階から目薬","２階から目薬をする","","","玄関","megusuri"),
-listOf<String>("テキーラで遊ばない","テキーラで遊ばない。奥大山を飲む。","","","","asobanai"),
-listOf<String>("企画","企画をする","","","","kikaku"),
+listOf<String>("テキーラで遊ぼ","中米のお酒「テキーラ」を楽しく味わう会","","","寮内各地","tekira"),
+listOf<String>("テキーラで遊ばない","テキーラで遊ばない。奥大山を飲む。","","","「テキーラで遊ぼ」と同じ場所・時間","asobanai"),
+listOf<String>("バカと酔っ払いにつける薬はない","バカみたいな酒飲みに薬(何か)を飲ませて正気にさせる","","","「テキーラで遊ぼ」と同じ場所・時間","baka"),
+listOf<String>("企画","企画をする","","","No Idea","kikaku"),
 listOf<String>("ハリーポッターと魔法の白い粉","色んな白い粉を直接鼻から摂取する","","","喫煙所","kona"),
 listOf<String>("アドバルーン","アドバルーンを手作り、とばします。","","","B屋上","ad"),
 listOf<String>("のり貼り","","","","ロビー、寮内各所","noribari"),
 listOf<String>("【検閲により削除されました】","","","","寮全体","kenetsu"),
 listOf<String>("そうじ","そうじする","","","寮全体","souji"),
 listOf<String>("あったまろう屋","ボイラー室でタダ飯をふるまう","","","ボイラー室","atta"),
-listOf<String>("SC選挙","SC選挙を実施する。","","","","sc"),
-listOf<String>("配信","何を配信するかは未定","","","","haishin"),
-listOf<String>("バカと酔っ払いにつける薬はない","バカみたいな酒飲みに薬(何か)を飲ませて正気にさせる","","","","baka"),
+listOf<String>("SC選挙","SC選挙を実施する。","","","食堂","sc"),
+listOf<String>("配信","何を配信するかは未定","","","食堂","haishin"),
 listOf<String>("新・資料システムを本気で考える会","プログラムを書き、仕様について議論する","","","食堂","shiryo"),
-listOf<String>("テキーラで遊ぼ","中米のお酒「テキーラ」を楽しく味わう会","","","","tekira"),
-listOf<String>("ライデン瓶","寮のいたるところにライデン瓶を置く。静電気楽しい。","","","","raiden"),
+listOf<String>("ライデン瓶","寮のいたるところにライデン瓶を置く。静電気楽しい。","","","寮内各地","raiden"),
 listOf<String>("薄毛体験","すきばさみでつむじ付近を切る。ミリオンヘアーでかくす。","","","ロビー","usuge"),
 listOf<String>("ミリオンヘアー","ミリオンヘアーでかくす。","","","ロビー","million")
 for Resource Id match function
@@ -198,6 +199,7 @@ return when(path) {
     "shindori" -> R.drawable.shindori
     "doraku" -> R.drawable.doraku
     "tea" -> R.drawable.tea
+    "mikan" -> R.drawable.mikan
     "dogama" -> R.drawable.dogama
     "tyopu" -> R.drawable.tyopu
     "katan" -> R.drawable.katan
@@ -237,18 +239,14 @@ return when(path) {
     "seimon" -> R.drawable.seimon
     "kaisatsu" -> R.drawable.kaisatsu
     "ajite" -> R.drawable.ajite
-    "publicview" -> R.drawable.publicview
     "noodle" -> R.drawable.noodle
     "hyakumono" -> R.drawable.hyakumono
     "zero" -> R.drawable.zero
-    "ping" -> R.drawable.ping
     "ekiden" -> R.drawable.ekiden
     "yakihata" -> R.drawable.yakihata
     "kaiken" -> R.drawable.kaiken
     "bar" -> R.drawable.bar
-    "zero" -> R.drawable.zero
     "gurushan" -> R.drawable.gurushan
-    "gotiusa" -> R.drawable.gotiusa
     "pub" -> R.drawable.pub
     "ab" -> R.drawable.ab
     "kikanshi" -> R.drawable.kikanshi
@@ -271,17 +269,12 @@ return when(path) {
     "kamogawa" -> R.drawable.kamogawa
     "guriko" -> R.drawable.guriko
     "nazo" -> R.drawable.nazo
-    "bar" -> R.drawable.bar
-    "marvel" -> R.drawable.marvel
-    "takara" -> R.drawable.takara
     "puri" -> R.drawable.puri
-    "poker" -> R.drawable.poker
     "trpg" -> R.drawable.trpg
     "rijin" -> R.drawable.rijin
     "cake" -> R.drawable.cake
     "neru" -> R.drawable.neru
     "okashi" -> R.drawable.okashi
-    "madogai" -> R.drawable.madogai
     "baki" -> R.drawable.baki
     "dasai" -> R.drawable.dasai
     "kikizake" -> R.drawable.kikizake
@@ -316,7 +309,9 @@ return when(path) {
     "saru" -> R.drawable.saru
     "yamahoko" -> R.drawable.yamahoko
     "megusuri" -> R.drawable.megusuri
+    "tekira" -> R.drawable.tekira
     "asobanai" -> R.drawable.asobanai
+    "baka" -> R.drawable.baka
     "kikaku" -> R.drawable.kikaku
     "kona" -> R.drawable.kona
     "ad" -> R.drawable.ad
@@ -326,9 +321,7 @@ return when(path) {
     "atta" -> R.drawable.atta
     "sc" -> R.drawable.sc
     "haishin" -> R.drawable.haishin
-    "baka" -> R.drawable.baka
     "shiryo" -> R.drawable.shiryo
-    "tekira" -> R.drawable.tekira
     "raiden" -> R.drawable.raiden
     "usuge" -> R.drawable.usuge
     "million" -> R.drawable.million
@@ -353,139 +346,140 @@ return when (path) {
     "shindori1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event11"
     "doraku1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event12"
     "tea1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event13"
-    "dogama1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event14"
-    "tyopu1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event15"
-    "katan1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event16"
-    "domi1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event17"
-    "chall1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event18"
-    "nourin1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event19"
-    "kyusyoku1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event20"
-    "shijo1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event21"
-    "karaoke1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event22"
-    "marvel1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event23"
-    "kyodai1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event24"
-    "kome1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event25"
-    "takara1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event26"
-    "byoru1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event27"
-    "publicview1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event28"
-    "kwze1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event29"
-    "gotiusa1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event30"
-    "ana1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event31"
-    "aizome1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event32"
-    "hamigaki1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event33"
-    "neko1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event34"
-    "mado1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event35"
-    "ilust1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event36"
-    "teppi1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event37"
-    "tabera1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event38"
-    "demo1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event39"
-    "senkan1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event40"
-    "yowamushi1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event41"
-    "sutikka1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event42"
-    "dekin1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event43"
-    "ikasama1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event44"
-    "masyou1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event45"
-    "yoru1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event46"
-    "jugyo1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event47"
-    "supojitsu1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event48"
-    "ping1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event49"
-    "seimon1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event50"
-    "kaisatsu1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event51"
-    "ajite1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event52"
-    "publicview1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event53"
-    "noodle1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event54"
-    "hyakumono1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event55"
-    "zero1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event56"
-    "ping1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event57"
-    "ekiden1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event58"
-    "yakihata1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event59"
-    "kaiken1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event60"
-    "bar1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event61"
-    "zero1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event62"
-    "gurushan1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event63"
-    "gotiusa1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event64"
-    "pub1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event65"
-    "ab1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event66"
-    "kikanshi1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event67"
-    "zenryo1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event68"
-    "tamanegi1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event69"
-    "takenoko1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event70"
-    "konkuri1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event71"
-    "big1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event72"
-    "youmei1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event73"
-    "koemo1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event74"
-    "amazon1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event75"
-    "ghoost1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event76"
-    "oekaki1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event77"
-    "r1001207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event78"
-    "madogai1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event79"
-    "poker1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event80"
-    "miri1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event81"
-    "smabura1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event82"
-    "ikada1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event83"
-    "kamogawa1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event84"
-    "guriko1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event85"
-    "nazo1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event86"
-    "bar1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event87"
-    "marvel1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event88"
-    "takara1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event89"
-    "puri1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event90"
-    "poker1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event91"
-    "trpg1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event92"
-    "rijin1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event93"
-    "cake1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event94"
-    "neru1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event95"
-    "okashi1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event96"
-    "madogai1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event97"
-    "baki1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event98"
-    "dasai1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event99"
-    "kikizake1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event100"
-    "kurama1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event101"
-    "ongakusai1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event102"
-    "sensya" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event103"
-    "syoko" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event104"
-    "takat" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event105"
-    "sousenkyo" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event106"
-    "mainichi" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event107"
-    "sanri" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event108"
-    "ike" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event109"
-    "konbini" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event110"
-    "sakaba" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event111"
-    "power" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event112"
-    "kumagai" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event113"
-    "arisu" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event114"
-    "riyaka" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event115"
-    "bougai" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event116"
-    "youtuber" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event117"
-    "upa" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event118"
-    "barkuma" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event119"
-    "matsuya" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event120"
-    "kumanohai" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event121"
-    "atata" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event122"
-    "mugen" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event123"
-    "kumanari" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event124"
-    "kumanoyu" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event125"
-    "shitumon" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event126"
-    "dore" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event127"
-    "jikan" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event128"
-    "saru" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event129"
-    "yamahoko" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event130"
-    "megusuri" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event131"
-    "asobanai" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event132"
-    "kikaku" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event133"
-    "kona" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event134"
-    "ad" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event135"
-    "noribari" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event136"
-    "kenetsu" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event137"
-    "souji" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event138"
-    "atta" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event139"
-    "sc" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event140"
-    "haishin" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event141"
-    "baka" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event142"
-    "shiryo" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event143"
-    "tekira" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event144"
-    "raiden" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event145"
-    "usuge" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event146"
-    "million" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event147"
+    "mikan1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event14"
+    "dogama1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event15"
+    "tyopu1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event16"
+    "katan1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event17"
+    "domi1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-01.html#event18"
+    "chall1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event19"
+    "nourin1201" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event20"
+    "kyusyoku1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event21"
+    "shijo1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event22"
+    "karaoke1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event23"
+    "marvel1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event24"
+    "kyodai1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event25"
+    "kome1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event26"
+    "takara1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event27"
+    "byoru1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event28"
+    "publicview1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event29"
+    "kwze1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-02.html#event30"
+    "gotiusa1202" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event31"
+    "ana1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event32"
+    "aizome1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event33"
+    "hamigaki1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event34"
+    "neko1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event35"
+    "mado1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event36"
+    "ilust1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event37"
+    "teppi1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event38"
+    "tabera1203" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-03.html#event39"
+    "demo1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event40"
+    "senkan1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event41"
+    "yowamushi1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event42"
+    "sutikka1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event43"
+    "dekin1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event44"
+    "ikasama1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event45"
+    "masyou1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event46"
+    "yoru1204" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-04.html#event47"
+    "jugyo1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event48"
+    "supojitsu1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event49"
+    "ping1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event50"
+    "seimon1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event51"
+    "kaisatsu1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event52"
+    "ajite1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event53"
+    "publicview1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event54"
+    "noodle1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event55"
+    "hyakumono1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event56"
+    "zero1205" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-05.html#event57"
+    "ping1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event58"
+    "ekiden1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event59"
+    "yakihata1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event60"
+    "kaiken1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event61"
+    "bar1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event62"
+    "zero1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event63"
+    "gurushan1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-06.html#event64"
+    "gotiusa1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event65"
+    "pub1206" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event66"
+    "ab1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event67"
+    "kikanshi1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event68"
+    "zenryo1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event69"
+    "tamanegi1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event70"
+    "takenoko1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event71"
+    "konkuri1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event72"
+    "big1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event73"
+    "youmei1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event74"
+    "koemo1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event75"
+    "amazon1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event76"
+    "ghoost1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event77"
+    "oekaki1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event78"
+    "r1001207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event79"
+    "madogai1207" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-07.html#event80"
+    "poker1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event81"
+    "miri1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event82"
+    "smabura1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event83"
+    "ikada1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event84"
+    "kamogawa1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event85"
+    "guriko1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event86"
+    "nazo1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event87"
+    "bar1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event88"
+    "marvel1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event89"
+    "takara1208" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-08.html#event90"
+    "puri1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event91"
+    "poker1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event92"
+    "trpg1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event93"
+    "rijin1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event94"
+    "cake1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event95"
+    "neru1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event96"
+    "okashi1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event97"
+    "madogai1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event98"
+    "baki1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event99"
+    "dasai1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event100"
+    "kikizake1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event101"
+    "kurama1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event102"
+    "ongakusai1209" -> "https://kumano-dormitory.github.io/ryosai2018/2018-12-09.html#event103"
+    "sensya" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event104"
+    "syoko" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event105"
+    "takat" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event106"
+    "sousenkyo" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event107"
+    "mainichi" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event108"
+    "sanri" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event109"
+    "ike" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event110"
+    "konbini" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event111"
+    "sakaba" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event112"
+    "power" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event113"
+    "kumagai" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event114"
+    "arisu" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event115"
+    "riyaka" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event116"
+    "bougai" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event117"
+    "youtuber" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event118"
+    "upa" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event119"
+    "barkuma" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event120"
+    "matsuya" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event121"
+    "kumanohai" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event122"
+    "atata" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event123"
+    "mugen" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event124"
+    "kumanari" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event125"
+    "kumanoyu" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event126"
+    "shitumon" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event127"
+    "dore" -> "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event128"
+    "jikan" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event129"
+    "saru" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event130"
+    "yamahoko" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event131"
+    "megusuri" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event132"
+    "tekira" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event133"
+    "asobanai" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event134"
+    "baka" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event135"
+    "kikaku" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event136"
+    "kona" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event137"
+    "ad" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event138"
+    "noribari" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event139"
+    "kenetsu" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event140"
+    "souji" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event141"
+    "atta" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event142"
+    "sc" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event143"
+    "haishin" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event144"
+    "shiryo" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event145"
+    "raiden" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event146"
+    "usuge" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event147"
+    "million" -> "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event148"
     else -> "https://kumano-dormitory.github.io/ryosai2018/"
 }
