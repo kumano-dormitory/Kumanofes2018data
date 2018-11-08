@@ -32,7 +32,7 @@ File.open("./for_android.txt", "w+") do |f|
       end
       tmp_str = "#{tmp_str},\nlistOf<String>(\"#{data['title']}\",\"#{data['details']}\",\"#{data['start_day'][0..1]}/#{data['start_day'][2..3]} #{data['start_at']}\",\"#{data['end_day'][0..1]}/#{data['end_day'][2..3]} #{data['end_at']}\",\"#{data['place']}\",\"#{data['path']}\")"
       tmp_str_write_f = true
-      url_hash["#{data['path']}#{data['start_day']}"] = "https://kumano-dormitory.github.io/ryosai2018/2018-#{data['start_day'][0..1]}-#{data['start_day'][2..3]}.html#event#{i}"
+      url_hash["#{data['path']}#{data['start_day']}"] = "https://kumano-dormitory.github.io/ryosai2018/events/#{i}.html"
       i = i + 1
     elsif (data['type'] == "1") then
       if tmp_str_write_f then
@@ -41,11 +41,11 @@ File.open("./for_android.txt", "w+") do |f|
           f.write("\n----------------------------------------------\n")
       end
       tmp_permanent = "#{tmp_permanent},\nlistOf<String>(\"#{data['title']}\",\"#{data['details']}\",\"\",\"\",\"#{data['place']}\",\"#{data['path']}\")"
-      url_hash["#{data['path']}#{data['start_day']}"] = "https://kumano-dormitory.github.io/ryosai2018/permanent.html#event#{i}"
+      url_hash["#{data['path']}#{data['start_day']}"] = "https://kumano-dormitory.github.io/ryosai2018/events/#{i}.html"
       i = i + 1
     elsif (data['type'] == "2") then
       tmp_gerira = "#{tmp_gerira},\nlistOf<String>(\"#{data['title']}\",\"#{data['details']}\",\"\",\"\",\"#{data['place']}\",\"#{data['path']}\")"
-      url_hash["#{data['path']}#{data['start_day']}"] = "https://kumano-dormitory.github.io/ryosai2018/guerrilla.html#event#{i}"
+      url_hash["#{data['path']}#{data['start_day']}"] = "https://kumano-dormitory.github.io/ryosai2018/events/#{i}.html"
       i = i + 1
     end
 
